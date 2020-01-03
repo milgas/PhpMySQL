@@ -82,8 +82,6 @@
 			<th></th>
 		  </tr>
 		  
-		  
-		  
 		  <?php 
 		  //Check if at least one row is found
 		  if($result->num_rows > 0) {
